@@ -4,6 +4,10 @@ header{
     border-radius: 10px;
     background-image: url(https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=600);
     background-size: cover;
+    font-size: 60px;
+    color: #fff;
+    display: grid;
+    place-items: center;
 }
 main{
     min-height: 800px;
